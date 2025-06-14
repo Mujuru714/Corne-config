@@ -14,7 +14,7 @@
 
         enter {
             bindings = <&kp ENTER>;
-            key-positions = <20 21>;
+            key-positions = <21 20>;
             layers = <0 2 1 3>;
         };
 
