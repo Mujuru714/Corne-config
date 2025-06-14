@@ -15,7 +15,6 @@
         enter {
             bindings = <&kp ENTER>;
             key-positions = <21 20>;
-            layers = <0 2 1 3>;
         };
 
         cut {
@@ -39,7 +38,6 @@
         del_word {
             bindings = <&kp LC(BACKSPACE)>;
             key-positions = <22 21>;
-            layers = <0 2 1 3>;
             timeout-ms = <0>;
         };
 
